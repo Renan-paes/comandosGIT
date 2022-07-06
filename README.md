@@ -240,7 +240,7 @@ $ git log --grep produtos --and --grep usuarios
         <td style="font-size:25px">Renan Paes</td>
     </tr>
     <tr style="text-align:center; background:#00f">
-        <td><a style="color:#fff;" href="https://www.linkedin.com/in/renan-paes-00ba02208/" target="_blank" >Linkedin</a></td>
+        <td><a  href="https://www.linkedin.com/in/renan-paes-00ba02208/" target="_blank" >Linkedin</a></td>
     </tr>
     
 </table>
