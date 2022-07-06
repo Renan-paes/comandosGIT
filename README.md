@@ -4,7 +4,7 @@
 # comandos GIT
 ### ✅ Se você está começando do zero, _vou te orientar desde a instalação do **Git** até o primeiro push_.
 
-### ⚠️⚠️ _PS: esses comandos são baseados no meu entendimento. Qualquer dúvida, deixe-me uma mensagem_ ⚠️⚠️
+### ⚠️ _PS: esses comandos são baseados no meu entendimento. Qualquer dúvida, deixe-me uma mensagem_ ⚠️
 
 
 
