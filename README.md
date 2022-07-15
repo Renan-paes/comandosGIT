@@ -182,7 +182,7 @@
 .43 git shortlog   // Você apenas vê o nome dos commits e quem fez
 ```
 ```
-.44 git log --author= nomeDaPessoa     // Mostra o histórico de commits feitos por uma única pessoa, excelente para saber que fez o quê.
+.44 git log --author nomeDaPessoa     // Mostra o histórico de commits feitos por uma única pessoa, excelente para saber que fez o quê.
 ```
 ```
 .45 git reflog   // Você consegue visualizar cada modificação mais detalhada DENTRO DA SUA BRANCH incluindo quando você sai de uma branch e vai para outra
